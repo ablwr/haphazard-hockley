@@ -9,7 +9,6 @@ body {
     background-repeat: no-repeat;
     background-size: cover;
     display: grid;
-    padding: 4em;
     justify-self: center;
     align-self: center;
     vertical-align: center;
